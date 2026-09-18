@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+    x:Class="SitillaRecorder.Views.SplashWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SitillaRecorder.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="SitillaRecorder -- 起動中">
+
+    <Window.SystemBackdrop>
+        <MicaBackdrop />
+    </Window.SystemBackdrop>
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Padding="32">
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Spacing="16">
+            <ProgressRing IsActive="True" Width="48" Height="48"/>
+            <TextBlock Text="SitillaRecorder を起動中..." Style="{StaticResource SubtitleTextBlockStyle}" FontWeight="Bold" HorizontalAlignment="Center"/>
+            <TextBlock Text="システム要件およびハードウェアを検証しています..." Style="{StaticResource CaptionTextBlockStyle}" Foreground="{ThemeResource SystemControlForegroundBaseMediumBrush}" HorizontalAlignment="Center"/>
+        </StackPanel>
+    </Grid>
+</Window>

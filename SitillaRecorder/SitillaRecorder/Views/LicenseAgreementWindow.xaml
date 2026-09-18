@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+    x:Class="SitillaRecorder.Views.LicenseAgreementWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SitillaRecorder.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="LicenseAgreementWindow">
+
+    <Window.SystemBackdrop>
+        <MicaBackdrop />
+    </Window.SystemBackdrop>
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Padding="24">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="エンドユーザー使用許諾契約 (EULA)" Style="{StaticResource SubtitleTextBlockStyle}" FontWeight="Bold"/>
+
+        <ScrollViewer Grid.Row="1" Margin="0,12,0,12" Background="{ThemeResource CardBackgroundFillColorDefaultBrush}" Padding="16">
+            <TextBlock TextWrapping="Wrap" Text="SitillaRecorderをご利用いただきありがとうございます。&#x0a;&#x0a;1. 本ソフトウェアはWindows 11 (24H2以降) 環境での動作を前提としています。&#x0a;2. 録画・キャプチャ時におけるシステム負荷やハードウェアの動作について、開発者は一切の責任を負いません。&#x0a;3. 不正な目的に本ソフトを使用することを禁じます。&#x0a;&#x0a;「同意してはじめる」を押すことで、上記の規約に同意したことになります。"/>
+        </ScrollViewer>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Spacing="12">
+            <Button Content="同意してはじめる" Style="{StaticResource AccentButtonStyle}" Click="BtnAgree_Click" Width="160"/>
+        </StackPanel>
+    </Grid>
+</Window>

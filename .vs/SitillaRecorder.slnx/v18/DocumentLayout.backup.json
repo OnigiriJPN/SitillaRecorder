@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\SitillaRecorder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|d:\\repos\\sitillarecorder\\sitillarecorder\\sitillarecorder\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|solutionrelative:sitillarecorder\\sitillarecorder\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|d:\\repos\\sitillarecorder\\sitillarecorder\\sitillarecorder\\core\\screenrecorderengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|solutionrelative:sitillarecorder\\sitillarecorder\\core\\screenrecorderengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|d:\\repos\\sitillarecorder\\sitillarecorder\\sitillarecorder\\config\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|solutionrelative:sitillarecorder\\sitillarecorder\\config\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|d:\\repos\\sitillarecorder\\sitillarecorder\\sitillarecorder\\config\\inihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|solutionrelative:sitillarecorder\\sitillarecorder\\config\\inihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|d:\\repos\\sitillarecorder\\sitillarecorder\\sitillarecorder\\config\\configvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|solutionrelative:sitillarecorder\\sitillarecorder\\config\\configvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|d:\\repos\\sitillarecorder\\sitillarecorder\\sitillarecorder\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|solutionrelative:sitillarecorder\\sitillarecorder\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|d:\\repos\\sitillarecorder\\sitillarecorder\\sitillarecorder\\core\\uithreadwatchdog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|solutionrelative:sitillarecorder\\sitillarecorder\\core\\uithreadwatchdog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|d:\\repos\\sitillarecorder\\sitillarecorder\\sitillarecorder\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|solutionrelative:sitillarecorder\\sitillarecorder\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|d:\\repos\\sitillarecorder\\sitillarecorder\\sitillarecorder\\utils\\crashrecoverymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|solutionrelative:sitillarecorder\\sitillarecorder\\utils\\crashrecoverymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|d:\\repos\\sitillarecorder\\sitillarecorder\\sitillarecorder\\core\\d3d11initializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|solutionrelative:sitillarecorder\\sitillarecorder\\core\\d3d11initializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|d:\\repos\\sitillarecorder\\sitillarecorder\\sitillarecorder\\core\\seriousbenchmarkengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|solutionrelative:sitillarecorder\\sitillarecorder\\core\\seriousbenchmarkengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|d:\\repos\\sitillarecorder\\sitillarecorder\\sitillarecorder\\core\\keyboardinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|solutionrelative:sitillarecorder\\sitillarecorder\\core\\keyboardinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|d:\\repos\\sitillarecorder\\sitillarecorder\\sitillarecorder\\core\\ntdllosinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|solutionrelative:sitillarecorder\\sitillarecorder\\core\\ntdllosinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|d:\\repos\\sitillarecorder\\sitillarecorder\\sitillarecorder\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|solutionrelative:sitillarecorder\\sitillarecorder\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|d:\\repos\\sitillarecorder\\sitillarecorder\\sitillarecorder\\views\\licenseagreementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|solutionrelative:sitillarecorder\\sitillarecorder\\views\\licenseagreementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|d:\\repos\\sitillarecorder\\sitillarecorder\\sitillarecorder\\views\\licenseagreementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|solutionrelative:sitillarecorder\\sitillarecorder\\views\\licenseagreementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|d:\\repos\\sitillarecorder\\sitillarecorder\\sitillarecorder\\views\\splashwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|solutionrelative:sitillarecorder\\sitillarecorder\\views\\splashwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|d:\\repos\\sitillarecorder\\sitillarecorder\\sitillarecorder\\views\\splashwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|solutionrelative:sitillarecorder\\sitillarecorder\\views\\splashwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|d:\\repos\\sitillarecorder\\sitillarecorder\\sitillarecorder\\sitillarecorder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32FF9534-C327-4997-9535-C93A33F7B557}|SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj|solutionrelative:sitillarecorder\\sitillarecorder\\sitillarecorder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Config\\AppConfig.cs",
+              "RelativeDocumentMoniker": "SitillaRecorder\\SitillaRecorder\\Config\\AppConfig.cs",
+              "ToolTip": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Config\\AppConfig.cs",
+              "RelativeToolTip": "SitillaRecorder\\SitillaRecorder\\Config\\AppConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:45:37.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScreenRecorderEngine.cs",
+              "DocumentMoniker": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Core\\ScreenRecorderEngine.cs",
+              "RelativeDocumentMoniker": "SitillaRecorder\\SitillaRecorder\\Core\\ScreenRecorderEngine.cs",
+              "ToolTip": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Core\\ScreenRecorderEngine.cs",
+              "RelativeToolTip": "SitillaRecorder\\SitillaRecorder\\Core\\ScreenRecorderEngine.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T10:45:25.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SitillaRecorder\\SitillaRecorder\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SitillaRecorder\\SitillaRecorder\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAADwv3YAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:50:37.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IniHelper.cs",
+              "DocumentMoniker": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Config\\IniHelper.cs",
+              "RelativeDocumentMoniker": "SitillaRecorder\\SitillaRecorder\\Config\\IniHelper.cs",
+              "ToolTip": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Config\\IniHelper.cs",
+              "RelativeToolTip": "SitillaRecorder\\SitillaRecorder\\Config\\IniHelper.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:45:52.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigValidator.cs",
+              "DocumentMoniker": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Config\\ConfigValidator.cs",
+              "RelativeDocumentMoniker": "SitillaRecorder\\SitillaRecorder\\Config\\ConfigValidator.cs",
+              "ToolTip": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Config\\ConfigValidator.cs",
+              "RelativeToolTip": "SitillaRecorder\\SitillaRecorder\\Config\\ConfigValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:46:04.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SitillaRecorder\\SitillaRecorder\\MainWindow.xaml",
+              "ToolTip": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\MainWindow.xaml",
+              "RelativeToolTip": "SitillaRecorder\\SitillaRecorder\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-18T09:19:47.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CrashRecoveryManager.cs",
+              "DocumentMoniker": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Utils\\CrashRecoveryManager.cs",
+              "RelativeDocumentMoniker": "SitillaRecorder\\SitillaRecorder\\Utils\\CrashRecoveryManager.cs",
+              "ToolTip": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Utils\\CrashRecoveryManager.cs",
+              "RelativeToolTip": "SitillaRecorder\\SitillaRecorder\\Utils\\CrashRecoveryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:46:45.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UiThreadWatchdog.cs",
+              "DocumentMoniker": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Core\\UiThreadWatchdog.cs",
+              "RelativeDocumentMoniker": "SitillaRecorder\\SitillaRecorder\\Core\\UiThreadWatchdog.cs",
+              "ToolTip": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Core\\UiThreadWatchdog.cs",
+              "RelativeToolTip": "SitillaRecorder\\SitillaRecorder\\Core\\UiThreadWatchdog.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAuwHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T10:32:35.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\App.xaml.cs",
+              "RelativeDocumentMoniker": "SitillaRecorder\\SitillaRecorder\\App.xaml.cs",
+              "ToolTip": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\App.xaml.cs",
+              "RelativeToolTip": "SitillaRecorder\\SitillaRecorder\\App.xaml.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAADwv1oAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:48:54.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "D3D11Initializer.cs",
+              "DocumentMoniker": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Core\\D3D11Initializer.cs",
+              "RelativeDocumentMoniker": "SitillaRecorder\\SitillaRecorder\\Core\\D3D11Initializer.cs",
+              "ToolTip": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Core\\D3D11Initializer.cs",
+              "RelativeToolTip": "SitillaRecorder\\SitillaRecorder\\Core\\D3D11Initializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:45:12.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SeriousBenchmarkEngine.cs",
+              "DocumentMoniker": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Core\\SeriousBenchmarkEngine.cs",
+              "RelativeDocumentMoniker": "SitillaRecorder\\SitillaRecorder\\Core\\SeriousBenchmarkEngine.cs",
+              "ToolTip": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Core\\SeriousBenchmarkEngine.cs",
+              "RelativeToolTip": "SitillaRecorder\\SitillaRecorder\\Core\\SeriousBenchmarkEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:44:56.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KeyboardInspector.cs",
+              "DocumentMoniker": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Core\\KeyboardInspector.cs",
+              "RelativeDocumentMoniker": "SitillaRecorder\\SitillaRecorder\\Core\\KeyboardInspector.cs",
+              "ToolTip": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Core\\KeyboardInspector.cs",
+              "RelativeToolTip": "SitillaRecorder\\SitillaRecorder\\Core\\KeyboardInspector.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:44:34.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NtDllOsInspector.cs",
+              "DocumentMoniker": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Core\\NtDllOsInspector.cs",
+              "RelativeDocumentMoniker": "SitillaRecorder\\SitillaRecorder\\Core\\NtDllOsInspector.cs",
+              "ToolTip": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Core\\NtDllOsInspector.cs",
+              "RelativeToolTip": "SitillaRecorder\\SitillaRecorder\\Core\\NtDllOsInspector.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:44:05.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\App.xaml",
+              "RelativeDocumentMoniker": "SitillaRecorder\\SitillaRecorder\\App.xaml",
+              "ToolTip": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\App.xaml",
+              "RelativeToolTip": "SitillaRecorder\\SitillaRecorder\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-18T09:43:06.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LicenseAgreementWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Views\\LicenseAgreementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SitillaRecorder\\SitillaRecorder\\Views\\LicenseAgreementWindow.xaml.cs",
+              "ToolTip": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Views\\LicenseAgreementWindow.xaml.cs",
+              "RelativeToolTip": "SitillaRecorder\\SitillaRecorder\\Views\\LicenseAgreementWindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwBkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:41:56.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LicenseAgreementWindow.xaml",
+              "DocumentMoniker": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Views\\LicenseAgreementWindow.xaml",
+              "RelativeDocumentMoniker": "SitillaRecorder\\SitillaRecorder\\Views\\LicenseAgreementWindow.xaml",
+              "ToolTip": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Views\\LicenseAgreementWindow.xaml",
+              "RelativeToolTip": "SitillaRecorder\\SitillaRecorder\\Views\\LicenseAgreementWindow.xaml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwB8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-18T09:36:25.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SplashWindow.xaml",
+              "DocumentMoniker": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Views\\SplashWindow.xaml",
+              "RelativeDocumentMoniker": "SitillaRecorder\\SitillaRecorder\\Views\\SplashWindow.xaml",
+              "ToolTip": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Views\\SplashWindow.xaml",
+              "RelativeToolTip": "SitillaRecorder\\SitillaRecorder\\Views\\SplashWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-18T09:36:01.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SplashWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Views\\SplashWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SitillaRecorder\\SitillaRecorder\\Views\\SplashWindow.xaml.cs",
+              "ToolTip": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\Views\\SplashWindow.xaml.cs",
+              "RelativeToolTip": "SitillaRecorder\\SitillaRecorder\\Views\\SplashWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwDUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:39:40.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SitillaRecorder",
+              "DocumentMoniker": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj",
+              "RelativeDocumentMoniker": "SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj",
+              "ToolTip": "D:\\Repos\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj",
+              "RelativeToolTip": "SitillaRecorder\\SitillaRecorder\\SitillaRecorder.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-18T09:16:59.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

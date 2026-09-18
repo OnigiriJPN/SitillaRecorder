@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+    x:Class="SitillaRecorder.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SitillaRecorder"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="SitillaRecorder">
+
+    <Window.SystemBackdrop>
+        <MicaBackdrop />
+    </Window.SystemBackdrop>
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Padding="28">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- ヘッダー -->
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Spacing="14">
+            <FontIcon Glyph="&#xE714;" FontSize="32" VerticalAlignment="Center" Foreground="{ThemeResource SystemAccentColor}"/>
+            <StackPanel VerticalAlignment="Center">
+                <TextBlock Text="SitillaRecorder Studio" Style="{StaticResource TitleTextBlockStyle}" FontWeight="Bold"/>
+                <TextBlock Text="Windows 11 (24H2+) Hardware Accelerated Capture" Style="{StaticResource CaptionTextBlockStyle}" Foreground="{ThemeResource SystemControlForegroundBaseMediumBrush}"/>
+            </StackPanel>
+        </StackPanel>
+
+        <!-- メインコンテンツ -->
+        <Grid Grid.Row="1" Margin="0,24,0,24">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="340"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- 左側：レコーディングコントロールパネル -->
+            <Border Grid.Column="0" Background="{ThemeResource CardBackgroundFillColorDefaultBrush}" BorderBrush="{ThemeResource CardStrokeColorDefaultBrush}" BorderThickness="1" CornerRadius="8" Padding="24">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Grid.Row="0" Text="キャプチャーコンソール" Style="{StaticResource SubtitleTextBlockStyle}" FontWeight="SemiBold"/>
+
+                    <!-- プレビュー＆ステータス表示エリア -->
+                    <Border Grid.Row="1" Margin="0,16,0,16" Background="#08000000" BorderBrush="{ThemeResource CardStrokeColorDefaultBrush}" BorderThickness="1" CornerRadius="6">
+                        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Spacing="12">
+                            <FontIcon x:Name="IconStatus" Glyph="&#xE714;" FontSize="56" Foreground="{ThemeResource SystemControlForegroundBaseMediumLowBrush}"/>
+                            <TextBlock x:Name="TxtRecordingStatus" Text="待機中 (Ready)" Style="{StaticResource SubtitleTextBlockStyle}" HorizontalAlignment="Center" FontWeight="SemiBold"/>
+                            <TextBlock x:Name="TxtElapsedTime" Text="00:00:00" FontSize="24" FontFamily="Consolas" HorizontalAlignment="Center" Foreground="{ThemeResource SystemControlForegroundBaseMediumBrush}"/>
+                        </StackPanel>
+                    </Border>
+
+                    <!-- 録画ボタン -->
+                    <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Spacing="12">
+                        <Button x:Name="BtnToggleRecord" Content="録画開始 (F9)" Style="{StaticResource AccentButtonStyle}" Click="BtnToggleRecord_Click" Width="160" Height="42" FontWeight="Bold"/>
+                    </StackPanel>
+                </Grid>
+            </Border>
+
+            <!-- 右側：ハードウェア・システム診断パネル -->
+            <Border Grid.Column="1" Margin="16,0,0,0" Background="{ThemeResource CardBackgroundFillColorDefaultBrush}" BorderBrush="{ThemeResource CardStrokeColorDefaultBrush}" BorderThickness="1" CornerRadius="8" Padding="20">
+                <ScrollViewer>
+                    <StackPanel Spacing="14">
+                        <TextBlock Text="システム診断" Style="{StaticResource SubtitleTextBlockStyle}" FontWeight="SemiBold"/>
+                        <MenuFlyoutSeparator/>
+
+                        <StackPanel Spacing="4">
+                            <TextBlock Text="[ストレージ 実測スループット]" FontWeight="Bold" FontSize="12"/>
+                            <TextBlock x:Name="TxtDiskSpeed" Text="計測中..." FontSize="12" Foreground="{ThemeResource SystemControlForegroundBaseMediumBrush}"/>
+                        </StackPanel>
+
+                        <StackPanel Spacing="4">
+                            <TextBlock Text="[GPU / D3D11 エンジン]" FontWeight="Bold" FontSize="12"/>
+                            <TextBlock x:Name="TxtGpuInfo" Text="計測中..." FontSize="12" Foreground="{ThemeResource SystemControlForegroundBaseMediumBrush}"/>
+                        </StackPanel>
+
+                        <StackPanel Spacing="4">
+                            <TextBlock Text="[ウォッチドッグ状態]" FontWeight="Bold" FontSize="12"/>
+                            <TextBlock Text="UIスレッド監視中 (Active)" FontSize="12" Foreground="LimeGreen"/>
+                        </StackPanel>
+                    </StackPanel>
+                </ScrollViewer>
+            </Border>
+        </Grid>
+
+        <!-- フッターステータス -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal" Spacing="8">
+            <Ellipse Width="8" Height="8" Fill="LimeGreen" VerticalAlignment="Center"/>
+            <TextBlock Text="セキュアカーネル接続完了 - 準備完了" Style="{StaticResource CaptionTextBlockStyle}" VerticalAlignment="Center"/>
+        </StackPanel>
+    </Grid>
+</Window>
